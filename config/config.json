@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "root",
+        "password": "oanhoanh",
+        "database": "nodes",
+        "host": "localhost",
+        "dialect": "mysql",
+        "operatorsAliases": 0
+    },
+    "test": {
+        "username": "root",
+        "password": "oanhoanh",
+        "database": "nodes",
+        "host": "localhost",
+        "dialect": "mysql",
+        "operatorsAliases": false
+    },
+    "production": {
+        "username": "root",
+        "password": "oanhoanh",
+        "database": "nodes",
+        "host": "localhost",
+        "dialect": "mysql",
+        "operatorsAliases": false
+    }
+}
